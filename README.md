@@ -1,5 +1,6 @@
-# My React and Redux Boilerplate Starter ====
-Has Scss and React Router DOM and basic Components set up.
+# REACT PROJECT THAT CREATES A CV USING FORMIK AND REACT-PDF ====
+
+
 
 
 # Getting Started with Create React App
